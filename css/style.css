@@ -1,0 +1,22 @@
+body
+{
+    font-family: 'Titillium Web', sans-serif;
+    background-color: #24353f;
+}
+
+.login,.navbar
+
+{
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
+
+.form-control::placeholder
+{
+    color:wheat;
+}
+
+ .form-control:focus
+{
+    border-color: #0DCAF0;
+    box-shadow: none;
+}
